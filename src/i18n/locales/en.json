@@ -1,0 +1,56 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "save": "Save",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "yes": "Yes",
+    "no": "No",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "signInToAccount": "Sign in to your account",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "createAccount": "Create Account",
+    "confirmPassword": "Confirm Password",
+    "loginFailed": "Login Failed",
+    "registrationFailed": "Registration Failed",
+    "fillAllFields": "Please fill in all fields",
+    "invalidEmail": "Please enter a valid email address",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcomeBack": "Welcome back, {{name}}!",
+    "yourProfile": "Your Profile",
+    "quickActions": "Quick Actions",
+    "welcomeMessage": "Welcome to your React Native app with a well-structured architecture!"
+  },
+  "profile": {
+    "title": "Profile",
+    "editProfile": "Edit Profile",
+    "personalInformation": "Personal Information",
+    "notProvided": "Not provided",
+    "updateSuccess": "Profile updated successfully",
+    "updateFailed": "Failed to update profile"
+  },
+  "errors": {
+    "networkError": "Network error. Please check your connection.",
+    "unauthorized": "Session expired. Please login again.",
+    "serverError": "Server error. Please try again later.",
+    "validationError": "Please check your input and try again.",
+    "unknownError": "Something went wrong. Please try again."
+  }
+}

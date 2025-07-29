@@ -1,0 +1,56 @@
+{
+  "common": {
+    "welcome": "Bienvenue",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "register": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "ok": "OK",
+    "yes": "Oui",
+    "no": "Non",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  },
+  "auth": {
+    "welcomeBack": "Bon retour",
+    "signInToAccount": "Connectez-vous à votre compte",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "forgotPassword": "Mot de passe oublié ?",
+    "createAccount": "Créer un compte",
+    "confirmPassword": "Confirmer le mot de passe",
+    "loginFailed": "Échec de la connexion",
+    "registrationFailed": "Échec de l'inscription",
+    "fillAllFields": "Veuillez remplir tous les champs",
+    "invalidEmail": "Veuillez entrer une adresse email valide",
+    "passwordMismatch": "Les mots de passe ne correspondent pas"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcomeBack": "Bon retour, {{name}} !",
+    "yourProfile": "Votre profil",
+    "quickActions": "Actions rapides",
+    "welcomeMessage": "Bienvenue dans votre application React Native avec une architecture bien structurée !"
+  },
+  "profile": {
+    "title": "Profil",
+    "editProfile": "Modifier le profil",
+    "personalInformation": "Informations personnelles",
+    "notProvided": "Non renseigné",
+    "updateSuccess": "Profil mis à jour avec succès",
+    "updateFailed": "Échec de la mise à jour du profil"
+  },
+  "errors": {
+    "networkError": "Erreur réseau. Veuillez vérifier votre connexion.",
+    "unauthorized": "Session expirée. Veuillez vous reconnecter.",
+    "serverError": "Erreur serveur. Veuillez réessayer plus tard.",
+    "validationError": "Veuillez vérifier votre saisie et réessayer.",
+    "unknownError": "Une erreur s'est produite. Veuillez réessayer."
+  }
+}
