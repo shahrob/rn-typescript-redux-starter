@@ -256,3 +256,13 @@ This project is licensed under the MIT License.
 ---
 
 Built with ❤️ using React Native and modern development practices.
+
+- **Issues**: Please open an issue in the repository
+- **Email**: shahrobk@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shahrob-abbas/)
+- **Upwork**: [Hire me on Upwork](https://www.upwork.com/freelancers/~01589f1d414475058b)
+
+<div align="center">
+  <p>⭐ Star this repository if you find it helpful!</p>
+  <p>Made with ❤️ by Muhammad Shahrob Abbas (Sr.Full Stack Developer)</p>
+</div>
